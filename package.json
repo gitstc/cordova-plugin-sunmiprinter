@@ -1,0 +1,23 @@
+{
+    "name": "cordova-plugin-sunmiprinter",
+    "version": "1.0.0",
+    "description": "Sunmit Printer Plugin",
+    "cordova": {
+      "id": "cordova-plugin-sunmiprinter",
+      "platforms": [
+        "android"
+      ]
+    },
+    "keywords": [
+      "cordova",
+      "notification",
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-browser",
+      "cordova-ios",
+      "cordova-windows"
+    ],
+    "author": "The Solutions Unit",
+    "license": "Apache-2.0"
+  }
+  
